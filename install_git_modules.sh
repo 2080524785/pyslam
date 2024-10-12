@@ -34,9 +34,9 @@ if [ ! -f d2_ots.pth ]; then
     #https://drive.google.com/file/d/12Uk95TjBT7VZSEitvm3B3XNK37Q_uU8T/view?usp=sharing
     # gdrive_download "12Uk95TjBT7VZSEitvm3B3XNK37Q_uU8T" "d2net.tar.xz"
     # mv ../../contextdesc/pretrained/d2net.tar.xz ./
-    wget https://drive.usercontent.google.com/download?id=12Uk95TjBT7VZSEitvm3B3XNK37Q_uU8T&export=download&authuser=0
-    tar -xvf d2net.tar.xz
-    rm d2net.tar.xz   
+    # wget https://drive.usercontent.google.com/download?id=12Uk95TjBT7VZSEitvm3B3XNK37Q_uU8T&export=download&authuser=0
+    # tar -xvf d2net.tar.xz
+    # rm d2net.tar.xz   
 fi 
 cd $STARTING_DIR
 cd thirdparty
@@ -57,15 +57,15 @@ if [ ! -d retrieval_model ]; then
     #wget https://research.altizure.com/data/contextdesc_models/contextdesc_pp.tar
     #https://drive.google.com/file/d/1TQIjijkyd3fNvEivPPpnxHKaSqFxu5TE/view?usp=sharing
     # gdrive_download "1TQIjijkyd3fNvEivPPpnxHKaSqFxu5TE" "contextdesc++.tar.xz"
-    wget https://drive.usercontent.google.com/download?id=1_J_aDSdKcUUk0ZXhn9bTqV6zuyzUixLD&export=download&authuser=0&confirm=t&uuid=cd0bf559-5304-4200-98e8-ec4fd3548468&at=AN_67v1Pk6ImaDdtnFiCnDdM3SYi%3A1728291988708
-    tar -xvf contextdesc++.tar.xz
-    rm contextdesc++.tar.xz   
+    # wget https://drive.usercontent.google.com/download?id=1_J_aDSdKcUUk0ZXhn9bTqV6zuyzUixLD&export=download&authuser=0&confirm=t&uuid=cd0bf559-5304-4200-98e8-ec4fd3548468&at=AN_67v1Pk6ImaDdtnFiCnDdM3SYi%3A1728291988708
+    # tar -xvf contextdesc++.tar.xz
+    # rm contextdesc++.tar.xz   
     #wget https://research.altizure.com/data/contextdesc_models/retrieval_model.tar
     # https://drive.google.com/file/d/1_J_aDSdKcUUk0ZXhn9bTqV6zuyzUixLD/view?usp=sharing
     # gdrive_download "1_J_aDSdKcUUk0ZXhn9bTqV6zuyzUixLD" "retrieval_model.tar.xz"
-    wget https://drive.usercontent.google.com/download?id=1TQIjijkyd3fNvEivPPpnxHKaSqFxu5TE&export=download&authuser=0
-    tar -xvf retrieval_model.tar.xz    
-    rm retrieval_model.tar.xz 
+    # wget https://drive.usercontent.google.com/download?id=1TQIjijkyd3fNvEivPPpnxHKaSqFxu5TE&export=download&authuser=0
+    # tar -xvf retrieval_model.tar.xz    
+    # rm retrieval_model.tar.xz 
 fi 
 cd $STARTING_DIR
 
