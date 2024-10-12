@@ -1,40 +1,40 @@
 [submodule "thirdparty/superpoint"]
 	path = thirdparty/superpoint
-	url = https://gh.llkk.cc/https://github.com/MagicLeapResearch/SuperPointPretrainedNetwork.git
+	url = https://ghproxy.cc/https://github.com/MagicLeapResearch/SuperPointPretrainedNetwork.git
 [submodule "thirdparty/tfeat"]
 	path = thirdparty/tfeat
-	url = https://gh.llkk.cc/https://github.com/vbalnt/tfeat.git
+	url = https://ghproxy.cc/https://github.com/vbalnt/tfeat.git
 [submodule "thirdparty/hardnet"]
 	path = thirdparty/hardnet
-	url = https://gh.llkk.cc/https://github.com/DagnyT/hardnet
+	url = https://ghproxy.cc/https://github.com/DagnyT/hardnet
 [submodule "thirdparty/SOSNet"]
 	path = thirdparty/SOSNet
-	url = https://gh.llkk.cc/https://github.com/yuruntian/SOSNet.git
+	url = https://ghproxy.cc/https://github.com/yuruntian/SOSNet.git
 [submodule "thirdparty/logpolar"]
 	path = thirdparty/logpolar
-	url = https://gh.llkk.cc/https://github.com/cvlab-epfl/log-polar-descriptors.git
+	url = https://ghproxy.cc/https://github.com/cvlab-epfl/log-polar-descriptors.git
 [submodule "thirdparty/d2net"]
 	path = thirdparty/d2net
-	url = https://gh.llkk.cc/https://github.com/mihaidusmanu/d2-net.git
+	url = https://ghproxy.cc/https://github.com/mihaidusmanu/d2-net.git
 [submodule "thirdparty/tensorflow_models"]
 	path = thirdparty/tensorflow_models
-	url = https://gh.llkk.cc/https://github.com/tensorflow/models
+	url = https://ghproxy.cc/https://github.com/tensorflow/models
 [submodule "thirdparty/lfnet"]
 	path = thirdparty/lfnet
-	url = https://gh.llkk.cc/https://github.com/vcg-uvic/lf-net-release.git
+	url = https://ghproxy.cc/https://github.com/vcg-uvic/lf-net-release.git
 [submodule "thirdparty/r2d2"]
 	path = thirdparty/r2d2
-	url = https://gh.llkk.cc/https://github.com/naver/r2d2.git
+	url = https://ghproxy.cc/https://github.com/naver/r2d2.git
 [submodule "thirdparty/keynet"]
 	path = thirdparty/keynet
-	url = https://gh.llkk.cc/https://github.com/axelBarroso/Key.Net.git
+	url = https://ghproxy.cc/https://github.com/axelBarroso/Key.Net.git
 [submodule "thirdparty/disk"]
 	path = thirdparty/disk
-	url = https://gh.llkk.cc/https://github.com/cvlab-epfl/disk.git
+	url = https://ghproxy.cc/https://github.com/cvlab-epfl/disk.git
 [submodule "thirdparty/accelerated_features"]
 	path = thirdparty/accelerated_features
-	url = https://gh.llkk.cc/https://github.com/verlab/accelerated_features.git
+	url = https://ghproxy.cc/https://github.com/verlab/accelerated_features.git
 [submodule "thirdparty/LightGlue"]
 	path = thirdparty/LightGlue
-	url = https://gh.llkk.cc/https://github.com/cvg/LightGlue.git
+	url = https://ghproxy.cc/https://github.com/cvg/LightGlue.git
 	
