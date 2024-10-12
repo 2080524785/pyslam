@@ -19,7 +19,7 @@ if ! pyenv install --list &> /dev/null; then
     echo "pyenv could not be found => install it!"
 
     if [ ! -d ~/.pyenv ]; then 
-        git clone https://github.com/pyenv/pyenv.git ~/.pyenv
+        git clone https://gh.llkk.cc/https://github.com/pyenv/pyenv.git ~/.pyenv
     else
         echo "folder ~/.pyenv is already set"
     fi  
